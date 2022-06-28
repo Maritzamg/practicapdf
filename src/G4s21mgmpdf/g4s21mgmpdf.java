@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package G4s21agagpdf;
+package G4s21mgmpdf;
 
 import com.itextpdf.io.font.FontConstants;
 import com.itextpdf.kernel.colors.Color;
@@ -21,7 +21,7 @@ import java.io.IOException;
  *
  * @author luiscruz89
  */
-public class g4s21agagpdf {
+public class g4s21mgmpdf {
 
     /**
      * @param args the command line arguments
